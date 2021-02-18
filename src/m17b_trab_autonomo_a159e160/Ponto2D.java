@@ -21,7 +21,7 @@ public class Ponto2D {
     }
     
     /** Construtor sem parâmetros Ponto2D que inicializa os atributos
-    * com valores predefinidos conhecidos
+    * com valores predefinidos conhecidos 
     *  @param x eixo x
     *  @param y eixo y                */
     public Ponto2D(int x, int y){
